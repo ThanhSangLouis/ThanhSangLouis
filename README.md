@@ -2,7 +2,7 @@
 
 # Vo Thanh Sang
 
-**Backend-Focused Full-Stack Developer Intern**
+**Backend-Focused Full-Stack Developer**
 
 Building secure, scalable, and user-centered web applications with a strong emphasis on backend engineering, authentication systems, RESTful APIs, and database-backed products.
 
